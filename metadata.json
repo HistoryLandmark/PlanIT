@@ -1,0 +1,6 @@
+{
+  "name": "PlanIT",
+  "description": "Comprehensive Event Management Platform for engagements, weddings, receptions, birthdays, and celebrations with countdowns, guest management, budgeting, and invitations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
